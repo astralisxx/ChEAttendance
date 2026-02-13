@@ -1,0 +1,5 @@
+{
+  "name": "ODTÜChE Attendance",
+  "description": "A visual attendance tool that uses Gemini Vision to compare a reference class photo against a daily photo to identify missing students.",
+  "requestFramePermissions": []
+}
